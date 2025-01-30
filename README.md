@@ -1,3 +1,3 @@
-# MyCodes
+# PythonScript
 
-This is first file on Git
+This Repo is all about python programming
